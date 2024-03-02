@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Graphic Designing , Web Developement and Android App Developement
 - 🌱 I’m currently learning Web Development,Coding(DSA).
 - 📫You can reach me out though :
-- Linked In : linkedin.com/in/soumyadip-giri-558916254
+- Linked In : https://www.linkedin.com/in/soumyadip-giri--/
 - Instagram: @soumyadip_giri__
 
 <!---
