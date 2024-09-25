@@ -1,7 +1,9 @@
 ![MasterHead](mastgif.gif)
 <h1 align="center">Namaskar 🙏🏼, I'm Soumyadip Giri</h1>
 <h3 align="center">A Passionate Tech Developer From India.</h3>
-<img width="400" src="programmer.gif">
+<div align="center">
+    <img width="400" src="programmer.gif" alt="programmer gif">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyadip-giri&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadip-giri" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyadip-giri" alt="soumyadip-giri" /></a> </p>
