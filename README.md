@@ -1,3 +1,4 @@
+![MasterHead](mastgif.gif)
 <h1 align="center">Namaskar 🙏🏼, I'm Soumyadip Giri</h1>
 <h3 align="center">A Passionate Tech Developer From India.</h3>
 <img align="right" alt="coding guy" width="400" src="programmer.gif">
